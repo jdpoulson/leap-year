@@ -1,0 +1,8 @@
+#result {
+  display: none;
+  border: 10px;
+  margin: 10px;
+  padding: 10px;
+  float: left;
+  color: orange;
+}
